@@ -1,5 +1,4 @@
-/* bara shehada       1240030
- lec sec 1      lab sec 1 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
